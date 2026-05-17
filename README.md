@@ -1,25 +1,41 @@
-# 📚 University Labs & Assignments
+# 📚 Data Structures & Programming Labs
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Academic Focus](https://img.shields.io/badge/BS_Information_Technology-PUCIT-blue?style=for-the-badge)
+![Academic Focus](https://img.shields.io/badge/BS_IT-PUCIT_Old_Campus-blue?style=for-the-badge)
 
 ## 📌 Overview
-This repository contains a comprehensive collection of my solved and unsolved academic labs and assignments. It serves as an archive of my coursework, demonstrating my practical progression in programming concepts, problem-solving, and software development. 
+This repository contains my personal coursework, labs, and assignments from my degree at **PUCIT (PU Old Campus)**, studied under **Sir Ghazali**. 
 
-Currently, the files are compressed in a single `.zip` archive for easy batch downloading.
+It includes implementations of various Data Structures (Stacks, Queues, Linked Lists, etc.), weekly lab tasks, and leetcode problem-solving. Currently, these files are archived in a `.zip` format for easy downloading.
 
-## 🗂️ What's Inside the ZIP?
-Once extracted, the archive includes materials from my core courses (such as Programming Fundamentals and Object-Oriented Programming). The contents are divided into two main categories:
+## 🗂️ Folder Structure (Post-Extraction)
+Once you extract the ZIP file, you will find a flat directory structure containing all the solved and unsolved tasks. Here is exactly what is inside:
 
-* **✅ Solved:** Completed lab tasks and assignments with fully working code and logical implementations.
-* **📝 Unsolved:** Original problem statements, prompt files, and skeleton code provided by the instructors for reference.
-
-### Typical Structure (Post-Extraction)
 ```text
-📦 Labs-and-Assignments
- ┣ 📂 Solved
- ┃ ┣ 📂 Labs (e.g., Lab 1 to 6)
- ┃ ┗ 📂 Assignments (e.g., Assignment 1 to 3)
- ┗ 📂 Unsolved
-   ┣ 📂 Labs
-   ┗ 📂 Assignments
+📦 Repository Root
+ ┣ 📂 .vscode
+ ┣ 📂 1.UN_SOLVED_LABS_AND_ASSIGNMENT_BY_S...  # Instructor's prompt files
+ ┣ 📂 ASSIGNMENT
+ ┣ 📂 CDLLD
+ ┣ 📂 Deque
+ ┣ 📂 HERE
+ ┣ 📂 LAB-3
+ ┣ 📂 LAB-4
+ ┣ 📂 LAB-5
+ ┣ 📂 LAB-7
+ ┣ 📂 LAB-8
+ ┣ 📂 LAB-9
+ ┣ 📂 LAB-10
+ ┣ 📂 LINK
+ ┣ 📂 LinkQueue
+ ┣ 📂 LinkStack
+ ┣ 📂 Mor-A3-BITF24M123                        # Specific Assignment
+ ┣ 📂 Queue
+ ┣ 📂 Recurrion 
+ ┣ 📂 SortedList
+ ┣ 📂 Stack
+ ┣ 📂 Stackchar
+ ┣ 📂 StackDouble
+ ┣ 📂 Student
+ ┣ 📂 UnsortedList
+ ┗ 📂 z_leetcode                               # Extra problem-solving practice
